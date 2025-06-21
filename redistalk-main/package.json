@@ -17,12 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShakirFarhan/Realtime-Chat.git"
   },
-  "author": "Shakir Farhan",
+  "author": "Madasu Rakesh",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ShakirFarhan/Realtime-Chat/issues"
-  },
-  "homepage": "https://github.com/ShakirFarhan/Realtime-Chat#readme"
 }
